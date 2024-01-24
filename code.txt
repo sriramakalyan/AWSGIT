@@ -1,0 +1,1 @@
+Coding creates a set of instructions for computers to follow. These instructions determine what actions a computer can and cannot take.
